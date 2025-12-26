@@ -25,3 +25,4 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 ## Repository contents
 - PCB schematics & Gerber files
 - Documentation / Thesis (PDF)
+- Presentation (pptx)
