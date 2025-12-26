@@ -5,7 +5,7 @@ Design and implementation of an **automated greenhouse monitoring and control sy
 
 ## Overview
 The system is built around an **ATmega64A microcontroller embedded on a custom 4-layer PCB**, integrating:
-- 5 environmental sensors (temperature, humidity, soil quality, light, water level)
+- 5 environmental sensors (air temperature and humidity, gas concentrations, soil quality, light, water level)
 - Galvanic isolation for external sensor/actuator interfaces
 - Wi-Fi module (ESP-12E) communicating via **MQTT** to **ThingsBoard**
 - Control of water pump (PWM) and lighting (relay)
@@ -24,5 +24,4 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 
 ## Repository contents
 - PCB schematics & Gerber files
-- Firmware (C)
 - Documentation / Thesis (PDF)
