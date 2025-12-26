@@ -26,3 +26,8 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 - PCB schematics & Gerber files
 - Documentation / Thesis (PDF)
 - Presentation (pptx)
+
+## Disclaimer
+This is my BSc thesis developed in 2024 at UTCN.
+Please do not copy or submit this work as your own.
+Referencing this repository is allowed.
