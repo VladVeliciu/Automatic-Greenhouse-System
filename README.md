@@ -33,7 +33,6 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 | `Bill of Materials.PDF` | Bill of materials |
 | `Prezentare.pptx` | Project presentation |
 | `Pick Place for PCB1.txt` | Pick-and-place file |
-| `Bachelor.pdsprj` | Native PCB design project file |
 
 ## Disclaimer
 This is my BSc thesis developed in 2024 at UTCN.
