@@ -23,9 +23,17 @@ The system is built around an **ATmega64A microcontroller embedded on a custom 4
 - PCB: 4 layers, mixed-signal & isolation
 
 ## Repository contents
-- PCB schematics & Gerber files
-- Documentation / Thesis (PDF)
-- Presentation (pptx)
+| File | Description |
+|------|-------------|
+| `VeliciuVlad_Licenta.pdf` | Complete bachelor thesis and design report |
+| `Schematic Prints.PDF` | Electrical schematics |
+| `Layers.PDF` | PCB copper layer overview |
+| `Assembly Drawings.PDF` | Assembly and placement drawings |
+| `PDF3D.PDF` | 3D visualization of the PCB |
+| `Bill of Materials.PDF` | Bill of materials |
+| `Prezentare.pptx` | Project presentation |
+| `Pick Place for PCB1.txt` | Pick-and-place file |
+| `Bachelor.pdsprj` | Native PCB design project file |
 
 ## Disclaimer
 This is my BSc thesis developed in 2024 at UTCN.
